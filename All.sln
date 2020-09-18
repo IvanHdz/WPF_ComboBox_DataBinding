@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox.DataBinding", "ComboBox.DataBinding\ComboBox.DataBinding.csproj", "{EF539F57-C06A-494F-935B-3B251C7167CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF539F57-C06A-494F-935B-3B251C7167CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF539F57-C06A-494F-935B-3B251C7167CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF539F57-C06A-494F-935B-3B251C7167CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF539F57-C06A-494F-935B-3B251C7167CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6388BF-30B7-40A5-B95F-3BB9A09676AA}
+	EndGlobalSection
+EndGlobal
